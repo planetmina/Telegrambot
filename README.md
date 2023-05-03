@@ -1,8 +1,7 @@
 # Telegrambot
 
 cd
-opkg update
-opkg install luci-app-telegrambot
+opkg update && opkg install luci-app-telegrambot
 
 
 Plugin Tambahan :

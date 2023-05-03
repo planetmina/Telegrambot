@@ -1,6 +1,5 @@
 # Telegrambot
 
-cd
 opkg update && opkg install luci-app-telegrambot
 
 
